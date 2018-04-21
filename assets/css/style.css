@@ -1,0 +1,36 @@
+body{
+    /* background-image: url("../assets/images/studio.jpg"); */
+
+    background-color: black;
+}
+
+header{
+    height:150px;
+    border: 1px solid black;
+    width: 80%;
+    text-align: center;
+    margin: 15px auto;
+
+}
+
+
+
+#contentBox{
+    height:350px;
+    border: 1px solid black;
+    
+    text-align: center;
+    
+   
+}
+
+#imageBox{
+    height:350px;
+    border: 1px solid black;
+    
+    
+    
+   
+}
+
+
